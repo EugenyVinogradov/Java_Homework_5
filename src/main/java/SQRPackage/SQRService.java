@@ -1,3 +1,5 @@
+package SQRPackage;
+
 public class SQRService {
     public long countSquareSearch(long minBorder, long maxBorder) {
         int count = 0;
